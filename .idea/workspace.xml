@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7052ee6e-fce5-48aa-b805-f85d1052e08b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ecom-app-angular/public/silent-check-sso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +174,7 @@
       <workItem from="1736184148205" duration="12711000" />
       <workItem from="1736356405604" duration="950000" />
       <workItem from="1736357374988" duration="11321000" />
-      <workItem from="1736606716326" duration="2049000" />
+      <workItem from="1736606716326" duration="2921000" />
     </task>
     <servers />
   </component>
